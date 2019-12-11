@@ -1,2 +1,0 @@
-# MyFirstWork
-Created with CodeSandbox
